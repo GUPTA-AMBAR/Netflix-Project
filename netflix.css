@@ -1,0 +1,14 @@
+.wrapper{
+    background-color: aqua;
+    border: 2px solid red;
+    text-align: center;
+}
+.ambar{
+    background-color: bisque;
+    border: 4px solid blue;
+    text-align: center;
+}
+.css{
+    border: 2px salmon;
+    text-align:center ;
+}
